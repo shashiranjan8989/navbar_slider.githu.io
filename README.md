@@ -1,1 +1,1 @@
-# navbar_slider.githu.io
+# navbar_slider.github.io
